@@ -2,4 +2,4 @@
 
 - Migrating to: [tadeujeronimo.bitbucket.io](https://tadeujeronimo.bitbucket.io)
 
-- Other projects: https://github.com/thaddeush
+- Other projects: [github.com/thaddeush](https://github.com/thaddeush)
